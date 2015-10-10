@@ -1,2 +1,2 @@
 # emily1
-First repository
+I have no idea what I'm doing
